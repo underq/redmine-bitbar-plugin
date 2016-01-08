@@ -1,0 +1,5 @@
+#!/bin/bash
+
+APIKEY="Reminde API KEY"
+URI="Redmine URI"
+
